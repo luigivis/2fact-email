@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="2fact-auth:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>2fact-auth</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="two-auth-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="2fact-auth:war exploded" />
+    </root>
+  </artifact>
+</component>

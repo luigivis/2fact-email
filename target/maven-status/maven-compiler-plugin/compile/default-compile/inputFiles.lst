@@ -1,0 +1,8 @@
+/home/luigi/IdeaProjects/2fact-auth/src/main/java/com/dilido/twoauth/model/Usuario.java
+/home/luigi/IdeaProjects/2fact-auth/src/main/java/com/dilido/twoauth/Main.java
+/home/luigi/IdeaProjects/2fact-auth/src/main/java/com/dilido/twoauth/database/DbConnection.java
+/home/luigi/IdeaProjects/2fact-auth/src/main/java/com/dilido/twoauth/utils/RandomString.java
+/home/luigi/IdeaProjects/2fact-auth/src/main/java/com/dilido/twoauth/utils/Email.java
+/home/luigi/IdeaProjects/2fact-auth/src/main/java/com/dilido/twoauth/function/UsuariosDao.java
+/home/luigi/IdeaProjects/2fact-auth/src/main/java/com/dilido/twoauth/controllers/ServletUsuario.java
+/home/luigi/IdeaProjects/2fact-auth/src/main/java/com/dilido/twoauth/utils/UtilsMessage.java
